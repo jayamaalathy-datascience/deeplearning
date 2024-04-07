@@ -1,6 +1,6 @@
 # deeplearning
-Youtube-dl was used for youtube file download.
-Run the main.py for the output
+1 Youtube-dl was used for youtube file download.
+2 Run the main.py for the output
 Initially the test video is loaded.
 Load predicted data for example gaze, emotions, engagement, object interactions.
 Gaze prediction
